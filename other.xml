@@ -9,7 +9,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>Blade files</id>
+            <id>BashSupport</id>
           </State>
         </selected-state>
       </profile-state>
@@ -32,7 +32,7 @@
     </option>
     <option name="LOCAL_CONFIGURATION">
       <value>
-        <option name="PATH_TO_CVS_CLIENT" value="git" />
+        <option name="PATH_TO_CVS_CLIENT" value="cvs" />
       </value>
     </option>
     <option name="PROXY_SETTINGS">

@@ -1,7 +1,25 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/home/dvv/projects/oro/crm-docker-application/mgmt/src/OroCloudBundle/Event/Image/Build/Before.php'" />
-    <option name="defaultScopeName" value="File '/home/dvv/projects/oro/crm-docker-application/mgmt/src/OroCloudBundle/Event/Image/Build/Before.php'" />
-    <option name="SEARCH_SCOPE" value="File '/home/dvv/projects/oro/crm-docker-application/mgmt/src/OroCloudBundle/Event/Image/Build/Before.php'" />
+    <option name="caseSensitive" value="true" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>datagrid.yml</mask>
+      <mask>routing.yml</mask>
+      <mask>*.twig</mask>
+      <mask>*.php</mask>
+      <mask>*.xml</mask>
+    </recentFileMasks>
   </component>
 </application>
