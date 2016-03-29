@@ -1,0 +1,22 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b57394d3-0ee8-4369-be0a-b0f245a71d10" name="172.28.128.3" url="http://172.28.128.3:8090">
+        <fileTransfer host="172.28.128.3" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/vagrant/mgmt" accessType="SFTP" username="vagrant" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="7266c5fe-f083-485b-bf0e-9e42afab445f" name="orocloud-local-server" url="http://172.28.128.3:8090">
+        <fileTransfer host="172.28.128.3" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/vagrant" accessType="SFTP" username="vagrant" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
