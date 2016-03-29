@@ -1,0 +1,17 @@
+<code_scheme name="Default (2)">
+  <MultiMarkdownCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MultiMarkdownCodeStyleSettings>
+  <PHPCodeStyleSettings>
+    <option name="ALIGN_ASSIGNMENTS" value="true" />
+    <option name="ALIGN_CLASS_CONSTANTS" value="true" />
+  </PHPCodeStyleSettings>
+  <codeStyleSettings language="PHP">
+    <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
+    <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
+    <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
+    <option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
+    <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
+    <option name="PLACE_ASSIGNMENT_SIGN_ON_NEXT_LINE" value="true" />
+  </codeStyleSettings>
+</code_scheme>
