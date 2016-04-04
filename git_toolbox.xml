@@ -1,0 +1,5 @@
+<application>
+  <component name="GitToolBoxAppSettings">
+    <option name="autoFetchIntervalMinutes" value="30" />
+  </component>
+</application>
