@@ -1,39 +1,41 @@
 <application>
   <component name="ApplicationShared">
-    <PreviewSettings splitEditorLayout="FIRST" splitEditorPreview="PREVIEW" useGrayscaleRendering="false" zoomFactor="1.0" maxImageWidth="0" showPreviewTab="yes" showModifiedHtmlTab="false" showUnmodifiedHtmlTab="false" showGitHubPageIfSynced="false" allowBrowsingInPreview="false">
+    <PreviewSettings splitEditorLayout="FIRST" splitEditorPreview="PREVIEW" useGrayscaleRendering="false" zoomFactor="1.0" maxImageWidth="0" showPreviewTab="yes" showModifiedHtmlTab="false" showUnmodifiedHtmlTab="false" showGitHubPageIfSynced="false" allowBrowsingInPreview="false" synchronizeScrollPosition="false">
       <PanelProvider>
-        <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.panel" providerName="Default - Swing" />
+        <provider providerId="com.vladsch.idea.multimarkdown.editor.javafx.html.panel" providerName="JavaFX WebView" />
       </PanelProvider>
     </PreviewSettings>
-    <ParserSettings parsingTimeout="50">
+    <ParserSettings parsingTimeout="1000">
       <PegdownExtensions>
         <option name="ABBREVIATIONS" value="false" />
-        <option name="ANCHORLINKS" value="false" />
+        <option name="ANCHORLINKS" value="true" />
         <option name="ATXHEADERSPACE" value="false" />
-        <option name="AUTOLINKS" value="false" />
-        <option name="DEFINITIONS" value="false" />
-        <option name="FENCED_CODE_BLOCKS" value="false" />
+        <option name="AUTOLINKS" value="true" />
+        <option name="DEFINITIONS" value="true" />
+        <option name="FENCED_CODE_BLOCKS" value="true" />
         <option name="FOOTNOTES" value="false" />
         <option name="FORCELISTITEMPARA" value="false" />
-        <option name="HARDWRAPS" value="false" />
+        <option name="HARDWRAPS" value="true" />
         <option name="QUOTES" value="false" />
-        <option name="RELAXEDHRULES" value="false" />
+        <option name="RELAXEDHRULES" value="true" />
         <option name="SMARTS" value="false" />
-        <option name="STRIKETHROUGH" value="false" />
+        <option name="STRIKETHROUGH" value="true" />
         <option name="SUPPRESS_HTML_BLOCKS" value="false" />
         <option name="SUPPRESS_INLINE_HTML" value="false" />
-        <option name="TABLES" value="false" />
-        <option name="TASKLISTITEMS" value="false" />
+        <option name="TABLES" value="true" />
+        <option name="TASKLISTITEMS" value="true" />
         <option name="TOC" value="false" />
-        <option name="WIKILINKS" value="false" />
+        <option name="TRACE_PARSER" value="false" />
+        <option name="WIKILINKS" value="true" />
       </PegdownExtensions>
       <ParserOptions>
-        <option name="GITHUB_WIKI_LINKS" value="false" />
+        <option name="GITHUB_WIKI_LINKS" value="true" />
+        <option name="JEKYLL_FRONT_MATTER" value="false" />
       </ParserOptions>
     </ParserSettings>
-    <HtmlSettings headerTopEnabled="false" headerBottomEnabled="false" bodyTopEnabled="false" bodyBottomEnabled="false">
+    <HtmlSettings headerTopEnabled="false" headerBottomEnabled="false" bodyTopEnabled="false" bodyBottomEnabled="false" embedUrlContent="false">
       <GeneratorProvider>
-        <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.generator" providerName="Default Swing HTML Generator" />
+        <provider providerId="com.vladsch.idea.multimarkdown.editor.javafx.html.generator" providerName="JavaFx HTML Generator" />
       </GeneratorProvider>
       <headerTop />
       <headerBottom />
@@ -42,7 +44,7 @@
     </HtmlSettings>
     <CssSettings previewScheme="UI_SCHEME" cssUri="" isCssUriEnabled="false" isCssTextEnabled="false" isDynamicPageWidth="true">
       <StylesheetProvider>
-        <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.css" providerName="Default Swing Stylesheet" />
+        <provider providerId="com.vladsch.idea.multimarkdown.editor.javafx.html.css" providerName="Default JavaFx Stylesheet" />
       </StylesheetProvider>
       <ScriptProviders />
       <cssText />
