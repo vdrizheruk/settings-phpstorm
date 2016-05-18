@@ -1,7 +1,7 @@
 <code_scheme name="Default (3)">
-  <MultiMarkdownCodeStyleSettings>
+  <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
-  </MultiMarkdownCodeStyleSettings>
+  </MarkdownNavigatorCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="ALIGN_CLASS_CONSTANTS" value="true" />
   </PHPCodeStyleSettings>
