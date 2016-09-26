@@ -1,0 +1,22 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b16f23dd-1d73-46dd-87f6-1346e80e71dc" name="bigdiscountsnet" url="http://www.big-discounts.net">
+        <fileTransfer host="kubernetes.dvsoftware.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/clients/bigdiscountsnet/www" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="b83e8188-b7fc-4341-b6d4-59690b62f8fe" name="big-discounts.net" url="http://kubernetes.dvsoftware.net">
+        <fileTransfer host="kubernetes.dvsoftware.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/clients/bigdiscountsnet" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
