@@ -18,6 +18,7 @@
       <mapping pattern=".s3cnf" type="PLAIN_TEXT" />
       <mapping pattern="webmin" type="PLAIN_TEXT" />
       <mapping pattern="OroBundleAttachmentBundleMigrationsSchemaOroAttachmentBundleInstaller" type="PLAIN_TEXT" />
+      <mapping pattern="all" type="PLAIN_TEXT" />
       <mapping pattern="s3cfg" type="PLAIN_TEXT" />
       <mapping pattern="1399072350880" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
