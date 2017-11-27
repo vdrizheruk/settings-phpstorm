@@ -41,6 +41,7 @@
       <mapping pattern=".dokku\CHECKS" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="default" type="PLAIN_TEXT" />
+      <mapping pattern="disk" type="PLAIN_TEXT" />
       <mapping pattern="inventory" type="PLAIN_TEXT" />
       <mapping pattern="Dcokerfile" type="PLAIN_TEXT" />
       <mapping pattern="vm" type="PLAIN_TEXT" />
