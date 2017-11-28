@@ -42,6 +42,7 @@
       <mapping pattern="979222371726" type="PLAIN_TEXT" />
       <mapping pattern="sql" type="PLAIN_TEXT" />
       <mapping pattern="762746510477" type="PLAIN_TEXT" />
+      <mapping pattern="backend_services" type="PLAIN_TEXT" />
       <mapping pattern=".dokku\CHECKS" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="default" type="PLAIN_TEXT" />
