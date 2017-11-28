@@ -23,6 +23,7 @@
       <mapping pattern="OroBundleAttachmentBundleMigrationsSchemaOroAttachmentBundleInstaller" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="s3cfg" type="PLAIN_TEXT" />
+      <mapping pattern="dns" type="PLAIN_TEXT" />
       <mapping pattern="1399072350880" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="1013823909108" type="PLAIN_TEXT" />
