@@ -36,6 +36,7 @@
       <mapping pattern="90-www-data" type="PLAIN_TEXT" />
       <mapping pattern="sudoers-zabbix" type="PLAIN_TEXT" />
       <mapping pattern="minecraft" type="PLAIN_TEXT" />
+      <mapping pattern="url_maps" type="PLAIN_TEXT" />
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern="LoadApplicationTypeOroCrmEnterpriseV1_153" type="PLAIN_TEXT" />
       <mapping pattern="1099789945610" type="PLAIN_TEXT" />
