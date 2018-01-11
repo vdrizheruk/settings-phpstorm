@@ -5,6 +5,7 @@
       <blacklist language="XML" />
       <blacklist language="Go" />
       <blacklist language="PHP">
+        <added pattern="\OroCloudBundle\Service\Image.build(sourceUri,sourceTag,sshKey,imageSuffix,version,workspace,buildOptions,onSuccess,onFailure)" />
         <removed pattern="" />
       </blacklist>
       <blacklist language="YAML" />
