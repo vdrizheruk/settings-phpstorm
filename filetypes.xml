@@ -18,7 +18,7 @@
       <mapping pattern="CHECKS" type="PLAIN_TEXT" />
       <mapping pattern="instance_group" type="PLAIN_TEXT" />
       <mapping pattern=".s3cnf" type="PLAIN_TEXT" />
-      <mapping pattern="dns_record_sets" type="PLAIN_TEXT" />
+      <mapping pattern="vm" type="PLAIN_TEXT" />
       <mapping pattern="webmin" type="PLAIN_TEXT" />
       <mapping pattern="OroBundleAttachmentBundleMigrationsSchemaOroAttachmentBundleInstaller" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
@@ -44,15 +44,15 @@
       <mapping pattern="sql" type="PLAIN_TEXT" />
       <mapping pattern="762746510477" type="PLAIN_TEXT" />
       <mapping pattern="backend_services" type="PLAIN_TEXT" />
-      <mapping pattern=".dokku\CHECKS" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern="disk" type="PLAIN_TEXT" />
       <mapping pattern="inventory" type="PLAIN_TEXT" />
-      <mapping pattern="Dcokerfile" type="PLAIN_TEXT" />
-      <mapping pattern="vm" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="phpmyadmin" type="PLAIN_TEXT" />
+      <mapping pattern="Dcokerfile" type="PLAIN_TEXT" />
+      <mapping pattern="dns_record_sets" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".dokku\CHECKS" type="PLAIN_TEXT" />
       <mapping pattern="Decokerfile" type="PLAIN_TEXT" />
       <mapping pattern="90-oro-cloud" type="PLAIN_TEXT" />
       <mapping pattern=".geetkeep" type="PLAIN_TEXT" />
@@ -69,6 +69,7 @@
       <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="wrap" type="PLAIN_TEXT" />
       <mapping ext="vcl" type="PLAIN_TEXT" />
+      <mapping ext="erb" type="PLAIN_TEXT" />
       <mapping ext="enc" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
