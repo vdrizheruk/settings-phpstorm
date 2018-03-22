@@ -20,6 +20,7 @@
       <mapping pattern=".s3cnf" type="PLAIN_TEXT" />
       <mapping pattern="vm" type="PLAIN_TEXT" />
       <mapping pattern="webmin" type="PLAIN_TEXT" />
+      <mapping pattern="secrets" type="PLAIN_TEXT" />
       <mapping pattern="OroBundleAttachmentBundleMigrationsSchemaOroAttachmentBundleInstaller" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="s3cfg" type="PLAIN_TEXT" />
