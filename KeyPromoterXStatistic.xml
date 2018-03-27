@@ -1,0 +1,14 @@
+<application>
+  <component name="KeyPromoterXStatistic">
+    <option name="statistics">
+      <Statistic Action="Find in Path...">
+        <Item>
+          <IdeaActionID>FindInPath</IdeaActionID>
+          <ShortCut>'⇧⌘F'</ShortCut>
+          <Description>Find in Path...</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+    </option>
+  </component>
+</application>
