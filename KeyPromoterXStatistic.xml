@@ -22,7 +22,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -87,6 +87,14 @@
           <ShortCut>'⌘T'</ShortCut>
           <Description>Update Project...</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+    </option>
+    <option name="suppressed">
+      <Statistic Action="Upload to oro@172.28.128.10">
+        <Item>
+          <IdeaActionID>PublishGroup.Upload</IdeaActionID>
+          <Description>Upload to oro@172.28.128.10</Description>
         </Item>
       </Statistic>
     </option>
