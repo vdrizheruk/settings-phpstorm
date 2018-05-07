@@ -30,7 +30,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>376</Count>
+          <Count>377</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -142,7 +142,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -174,7 +174,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'⌘T'</ShortCut>
           <Description>Update Project...</Description>
-          <Count>19</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
     </option>
