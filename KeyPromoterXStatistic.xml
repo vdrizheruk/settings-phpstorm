@@ -41,6 +41,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Configure PHP Include Paths...">
+        <Item>
+          <IdeaActionID>EditSource</IdeaActionID>
+          <ShortCut>'⌘↓' or 'F4'</ShortCut>
+          <Description>Configure PHP Include Paths...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Copy">
         <Item>
           <IdeaActionID>$Copy</IdeaActionID>
