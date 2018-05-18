@@ -14,7 +14,7 @@
           <IdeaActionID>ChangesView.AddUnversioned.From.Dialog</IdeaActionID>
           <ShortCut>'⌥⌘A'</ShortCut>
           <Description>Add to VCS</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit Message History">
