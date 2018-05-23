@@ -30,7 +30,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>463</Count>
+          <Count>464</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
