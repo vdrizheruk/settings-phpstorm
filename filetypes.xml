@@ -9,7 +9,6 @@
       <mapping pattern="functions" type="Bash" />
       <mapping pattern="config" type="Bash" />
       <mapping ext="runit" type="Bash" />
-      <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="secrets" type="PLAIN_TEXT" />
       <mapping pattern="dns" type="PLAIN_TEXT" />
       <mapping pattern="CHECKS" type="PLAIN_TEXT" />
@@ -18,7 +17,7 @@
       <mapping pattern=".dokku/CHECKS" type="PLAIN_TEXT" />
       <mapping pattern="OroBundleAttachmentBundleMigrationsSchemaOroAttachmentBundleInstaller" type="PLAIN_TEXT" />
       <mapping pattern=".s3cnf" type="PLAIN_TEXT" />
-      <mapping pattern="90-www-data" type="PLAIN_TEXT" />
+      <mapping pattern=".bashrc" type="PLAIN_TEXT" />
       <mapping pattern="Decokerfile" type="PLAIN_TEXT" />
       <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
@@ -48,9 +47,10 @@
       <mapping pattern=".geetkeep" type="PLAIN_TEXT" />
       <mapping pattern="rand" type="PLAIN_TEXT" />
       <mapping pattern="install-application" type="PLAIN_TEXT" />
+      <mapping pattern="90-www-data" type="PLAIN_TEXT" />
       <mapping pattern="instance_group" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
-      <mapping pattern=".bashrc" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="phpmyadmin" type="PLAIN_TEXT" />
       <mapping pattern="minecraft" type="PLAIN_TEXT" />
       <mapping pattern="1099789945610" type="PLAIN_TEXT" />
@@ -69,6 +69,7 @@
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="wrap" type="PLAIN_TEXT" />
+      <mapping ext="meta" type="PLAIN_TEXT" />
       <mapping ext="vcl" type="PLAIN_TEXT" />
       <mapping ext="erb" type="PLAIN_TEXT" />
       <mapping ext="enc" type="PLAIN_TEXT" />
