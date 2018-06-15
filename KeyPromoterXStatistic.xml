@@ -209,6 +209,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Zoom">
+        <Item>
+          <IdeaActionID>ZoomCurrentWindow</IdeaActionID>
+          <ShortCut>'⌃⌘='</ShortCut>
+          <Description>Zoom</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
     </option>
     <option name="suppressed">
       <Statistic Action="Upload to oro@172.28.128.10">
