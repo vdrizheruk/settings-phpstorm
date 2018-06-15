@@ -214,7 +214,7 @@
           <IdeaActionID>ZoomCurrentWindow</IdeaActionID>
           <ShortCut>'⌃⌘='</ShortCut>
           <Description>Zoom</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
     </option>
