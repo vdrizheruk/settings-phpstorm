@@ -110,7 +110,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'⌘T'</ShortCut>
           <Description>Update Project...</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
     </option>
