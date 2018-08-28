@@ -86,7 +86,7 @@
           <IdeaActionID>EditSource</IdeaActionID>
           <ShortCut>'⌘↓' or 'F4'</ShortCut>
           <Description>Jump to Source</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -126,7 +126,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>28</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -158,7 +158,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'⌘T'</ShortCut>
           <Description>Update Project...</Description>
-          <Count>78</Count>
+          <Count>79</Count>
         </Item>
       </Statistic>
     </option>
