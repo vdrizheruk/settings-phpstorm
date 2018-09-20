@@ -126,7 +126,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>41</Count>
+          <Count>42</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Local Changes as UML">
@@ -174,7 +174,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'⌘T'</ShortCut>
           <Description>Update Project...</Description>
-          <Count>106</Count>
+          <Count>107</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
