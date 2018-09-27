@@ -10,6 +10,10 @@
           <option name="url" value="http://git.oro.cloud" />
           <option name="userName" value="scherepanov" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.oro.cloud" />
+          <option name="userName" value="vdrizheruk" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
