@@ -1,10 +1,11 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="version" value="2.9.3.1" />
+    <option name="selectedTheme" value="MONOKAI" />
     <option name="highlightColor" value="80cbc4" />
     <option name="highlightColorEnabled" value="true" />
     <option name="isContrastMode" value="true" />
-    <option name="accentColor" value="009688" />
+    <option name="accentColor" value="ffd866" />
     <option name="darkTitleBar" value="true" />
     <option name="settingsSelectedTab" value="6" />
     <option name="userId" value="bca305e:164042064cd:-7ffc" />
