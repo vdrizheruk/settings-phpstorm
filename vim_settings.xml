@@ -18,10 +18,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Cg==</text>
+        <text>redefine</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>redefine</text>
       </register>
     </registers>
     <search>
