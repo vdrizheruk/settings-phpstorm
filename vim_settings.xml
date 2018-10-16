@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/projects/oro/laboro/dev/documentation/commerce/cloud/maintenance/advanced_use.rst" timestamp="1539692553680">
+        <mark key="[" line="19" column="211" />
+        <mark key="]" line="19" column="211" />
+        <mark key="." line="19" column="211" />
+      </file>
       <file name="$USER_HOME$/projects/oro/laboro/dev/documentation/commerce/cloud/maintenance/basic_use.rst" timestamp="1539685176040">
         <mark key="[" line="14" column="0" />
       </file>
@@ -18,10 +23,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>redefine</text>
+        <text>okokoa.</text>
       </register>
       <register name="-" type="4">
-        <text>redefine</text>
+        <text>okokoa.</text>
       </register>
     </registers>
     <search>
