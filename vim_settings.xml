@@ -1,0 +1,37 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/projects/oro/laboro/dev/documentation/commerce/cloud/maintenance/basic_use.rst" timestamp="1539685176040">
+        <mark key="[" line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/oro/laboro/dev/documentation/commerce/cloud/maintenance/custom.rst" timestamp="1539685021307">
+        <mark key="[" line="8" column="42" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="1" type="4">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history />
+    <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
