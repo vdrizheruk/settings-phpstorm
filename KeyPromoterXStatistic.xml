@@ -110,7 +110,7 @@
           <IdeaActionID>FindInPath</IdeaActionID>
           <ShortCut>'⇧⌘F'</ShortCut>
           <Description>Find in Path...</Description>
-          <Count>457</Count>
+          <Count>458</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
